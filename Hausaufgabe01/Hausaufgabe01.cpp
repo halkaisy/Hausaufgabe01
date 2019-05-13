@@ -1,7 +1,7 @@
 /*
 	C++ SoSe 2019
 	Uebungsblatt 01
-	Josefin Claus, 
+	Josefin Claus, _______
 	Haidar Alkaisy, 295669
 
 */
