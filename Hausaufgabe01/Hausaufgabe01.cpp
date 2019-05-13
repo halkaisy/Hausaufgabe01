@@ -31,7 +31,6 @@ int main()
 void menue() {
 	cout << "<1> Addition\n<2> Subtraktion\n<3> Multiplikation\n<4> Division\n<5> Modulo\n<6> 15 Fibonnacci-Zahlen\n<7> Fakultaet\n<0> Beenden" << endl;
 
-	return;
 }
 
 //Methode zum Ausgeben des Menues und einlesen der Benutzereingabe.
@@ -177,7 +176,6 @@ void menueAusfuehren(int auswahlNummer) {
 	
 	}
 
-	return;
 }
 
 //Methode gibt die Fibonaccizahl der uebergebenen zahl zurueck.
